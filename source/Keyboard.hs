@@ -46,8 +46,7 @@ keyLoop sound = do
             setSound sound $ x * 100
             putChar $ chr x
         else if isTouching then do
-            if getTouchY < 110
-                then do
+            if getTouchY < 110 then do
                     setSound sound $ getTouchY * 100
                     print getTouchY
                 else
