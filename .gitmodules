@@ -1,0 +1,3 @@
+[submodule "jhc-components"]
+	path = jhc-components
+	url = git@github.com:Chi-Iroh/jhc-components.git
