@@ -7,7 +7,7 @@ The C code will be compiled using devkitpro compiler then.
 ## JHC
 
 JHC being old and unmaintained, the `jhc-components` is a fork of a fork of a fork etc.. which has been updated to build with a recent GHC.  
-Go see [jhc-components/README.md] to build it, then you may proceed.  
+Go see [jhc-components/README.md](jhc-components/README.md) to build it, then you may proceed.  
 
 ## JHC oddities
 
